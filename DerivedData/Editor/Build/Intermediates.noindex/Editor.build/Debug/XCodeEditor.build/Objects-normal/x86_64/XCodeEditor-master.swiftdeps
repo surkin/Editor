@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.52 clang-900.0.29)"
+options: "5ee72436349606b840d5b49359a448cb"
+build_time: [1500348425, 217552000]
+inputs:
+  "/Users/surkin/dev/Editor/Editor/XCodeEditor/SourceEditorExtension.swift": [1500348414, 0]
+  "/Users/surkin/dev/Editor/Editor/XCodeEditor/SourceEditorCommand.swift": [1500348414, 0]
